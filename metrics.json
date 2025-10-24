@@ -1,0 +1,15 @@
+{
+  "best_model": "LinearRegression",
+  "validation_metrics": {
+    "LinearRegression": {
+      "val_r2": 0.8423113355150245,
+      "val_rmse": 1.8770777650947632,
+      "val_mae": 1.525275331200085
+    },
+    "RandomForest": {
+      "val_r2": 0.8230405667432549,
+      "val_rmse": 1.9884692856058552,
+      "val_mae": 1.6146252020063903
+    }
+  }
+}
